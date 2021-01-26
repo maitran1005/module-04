@@ -1,0 +1,55 @@
+h1 {
+   font-family: 'DeGermLoCaseRegular';
+   font-weight: bold;
+   font-style: italic;
+   color: #CC6600;
+}
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color: blue;
+	text-align: center;
+}
+body {
+	background-image: url("https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/0xPgM5l/elegant-background-wedding-loop-animation_7yyotpw8_thumbnail-1080_01.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 90%;
+	margin: 0 auto;}
+#content {
+	overflow: auto;}
+#nav, #feature, #footer {
+	margin: 1%;
+	}
+.column1, .column2, .column3 {
+	width: 31.3%;
+	float: left;
+	margin: 1%;
+	}
+.column3 {
+	margin-right: 0%;}
+li {
+	display: inline;
+	padding: 0.5em;}
+#nav, #footer {
+	background-color: #F75D59;
+	padding: 0.5em 0;}
+#feature, .article {
+	height: 10em;
+	margin-bottom: 1em;
+	background-color: #C36241;
+}
+#feature {
+	background-image: url("https://th.bing.com/th/id/R862ceb0930279d0ad97d1c7ca9998895?rik=BxUfPejljm1ClQ&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f03%2fAbstract-Flower-PNG-Image.png&ehk=i52D7G2mzczuQTwt9r%2ba4%2ba6DBWlt%2ftqOW1KpdQyb98%3d&risl=&pid=ImgRaw");
+	background-size:contain;
+	background-position: right;
+	background-repeat:no-repeat;
+}
+.column1 {
+	background-color: #EDDA74;
+}
+.column2 {
+	background-color: #FFF380;
+}
+.column3 {
+	background-color: #F2BB66;
+}
