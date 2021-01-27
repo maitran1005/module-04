@@ -1,11 +1,11 @@
 h1 {
-   font-family: 'DeGermLoCaseRegular';
+   font-family: 'Monoton', cursive;
    font-weight: normal;
    font-style: normal;
    color: #CC6600;
 }
 * {
-	font-family: 'Monoton', cursive;
+	font-family: Arial, Verdana, sans-serif;
 	color: blue;
 	text-align: center;
 }
